@@ -1,10 +1,25 @@
 {{ define "main" }}
   {{ partial "title.html" . }}
   {{ partial "categories.html" . }}
-  {{ partial "featured.html" . }}
-  <section class="galleries">
-    {{ range where .Pages "Params.private" "ne" true }}
-      {{ partial "album-card.html" . }}
+  {{ range where .Site.RegularPages "Params.featured" true }}
+    {{ $album := . }}
+    {{ $images := where ($album.Resources.ByType "image") "Params.hidden" "ne" true }}
+    {{ if gt (len $images) 0 }}
+      <section class="gallery">
+        <h2 style="padding: 1rem"><a href="{{ $album.RelPermalink }}">{{ $album.Title }}</a></h2>
+        <div id="gallery-{{ $album.File.UniqueID }}" style="visibility: hidden; height: 1px; overflow: hidden">
+          {{ range $image := $images }}
+            {{ $thumbnail := $image.Filter (slice images.AutoOrient (images.Process "fit 600x600")) }}
+            {{ $full := $image.Filter (slice images.AutoOrient (images.Process "fit 1600x1600")) }}
+            {{ $color := index $thumbnail.Colors 0 | default "transparent" }}
+            <a class="gallery-item" href="{{ $image.RelPermalink }}" data-pswp-src="{{ $full.RelPermalink }}" data-pswp-width="{{ $full.Width }}" data-pswp-height="{{ $full.Height }}" title="{{ $image.Title }}" style="aspect-ratio: {{ $thumbnail.Width }} / {{ $thumbnail.Height }}">
+              <figure style="background-color: {{ $color }}; aspect-ratio: {{ $thumbnail.Width }} / {{ $thumbnail.Height }}">
+                <img class="lazyload" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" data-src="{{ $thumbnail.RelPermalink }}" alt="{{ $image.Title }}" />
+              </figure>
+            </a>
+          {{ end }}
+        </div>
+      </section>
     {{ end }}
-  </section>
+  {{ end }}
 {{ end }}

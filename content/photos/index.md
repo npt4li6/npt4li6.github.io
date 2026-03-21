@@ -1,3 +1,4 @@
 ---
 title: "Photos"
+featured: true
 ---

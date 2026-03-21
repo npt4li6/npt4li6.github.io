@@ -1,11 +1,10 @@
 ---
 layout: prose
-categories: ["About"]
 rss_ignore: true
-title: 
-menu: About
+title: About
+menu:
   main:
     weight: 90
 ---
 
-My name is
+Write about yourself here.

@@ -6,10 +6,5 @@
     {{ range where .Pages "Params.private" "ne" true }}
       {{ partial "album-card.html" . }}
     {{ end }}
-    <a class="card" href="/about" title="About">
-      <div>
-        <h2>About</h2>
-      </div>
-    </a>
   </section>
 {{ end }}

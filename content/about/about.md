@@ -1,6 +1,6 @@
 ---
 layout: prose
-categories: ["beauty", "fashion"]
+categories: ["test", "test"]
 rss_ignore: true
 title: About
 menu:

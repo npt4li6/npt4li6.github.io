@@ -2,3 +2,5 @@ theme = "gallery"
 title = "Natalie Kim"
 baseURL = "https://npt4li6.github.io"
 languageCode = "en-us"
+[taxonomies]
+  category = "categories"

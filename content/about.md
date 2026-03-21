@@ -1,5 +1,6 @@
 ---
 layout: prose
+categories: ["beauty", "fashion"]
 rss_ignore: true
 title: About
 menu:

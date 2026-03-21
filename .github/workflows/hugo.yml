@@ -12,17 +12,14 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
         with:
           submodules: recursive
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-          extended: true
+      - name: Install Hugo
+        run: |
+          wget -O hugo.deb https://github.com/gohugoio/hugo/releases/latest/download/hugo_extended_linux_amd64.deb
+          sudo dpkg -i hugo.deb
       - name: Build
         run: hugo --minify
       - name: Upload artifact

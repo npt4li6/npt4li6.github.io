@@ -1,11 +1,11 @@
 ---
 layout: prose
-categories: ["test", "test"]
+categories: ["About"]
 rss_ignore: true
-title: About
-menu:
+title: 
+menu: About
   main:
     weight: 90
 ---
 
-My name is Natalie.
+My name is

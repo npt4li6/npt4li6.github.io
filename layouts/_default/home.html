@@ -1,10 +1,8 @@
 {{ define "main" }}
-  {{ partial "title.html" . }}
   {{ partial "categories.html" . }}
   {{ range where .Site.RegularPages "Params.featured" true }}
-    <section>
-      <h2 style="padding: 1rem"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <div class="featured-album">
       {{ partial "gallery.html" . }}
-    </section>
+    </div>
   {{ end }}
 {{ end }}

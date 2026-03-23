@@ -1,6 +1,5 @@
 ---
-title: "Photos"
-featured: true
+title: "Research"
 categories: ["Photo Gallery"]
 sort_by: "Name"
 sort_order: "desc"

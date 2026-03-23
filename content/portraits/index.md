@@ -1,4 +1,4 @@
 ---
-title: "Eats"
+title: "Portraits"
 categories: ["Photo Gallery"]
 ---

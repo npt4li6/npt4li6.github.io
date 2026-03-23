@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo Gallery on Natalie Kim</title>
+    <link>http://localhost:1313/categories/photo-gallery/</link>
+    <description>Recent content in Photo Gallery on Natalie Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/categories/photo-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eats</title>
+      <link>http://localhost:1313/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/food/</guid>
+        <media:content url="http://localhost:1313/food/IMG_0529_hu_27a89c5c46b2c967.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/food/IMG_0529_hu_27a89c5c46b2c967.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Photos</title>
+      <link>http://localhost:1313/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/</guid>
+        <media:content url="http://localhost:1313/photos/11-08-2024-02-24-15_hu_869e22e4dd42570.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/photos/11-08-2024-02-24-15_hu_869e22e4dd42570.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Portraits</title>
+      <link>http://localhost:1313/portraits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portraits/</guid>
+        <media:content url="http://localhost:1313/portraits/8H9A7483_hu_43cca4dfb38319b8.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/portraits/8H9A7483_hu_43cca4dfb38319b8.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

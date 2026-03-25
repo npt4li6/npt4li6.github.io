@@ -1,11 +1,10 @@
-/* Hide the hamburger icon only on the homepage */
-.home .nav-toggle, 
-.home label[for="nav-toggle"] {
+/* Hide the menu specifically on the homepage */
+.home #menu {
     display: none !important;
 }
 
-/* If your theme uses a different class, this is the 'catch-all' approach */
-.home .hamburger, 
-.home #menu-toggle {
+/* If there is a button that triggers the menu, hide that too */
+.home .menu-toggle, 
+.home .hamburger {
     display: none !important;
 }

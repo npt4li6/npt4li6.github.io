@@ -8,3 +8,7 @@ languageCode = "en-us"
 
 [params]
   customCSS = ["css/custom.css"]
+
+[params.socialIcons]
+  instagram = "https://www.instagram.com/natalieckim"
+  linkedin = "https://www.linkedin.com/in/nataliekim161"

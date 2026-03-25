@@ -11,5 +11,5 @@ I'm a physics PhD student in the greater Boston area interested in origins-of-li
 
 Despite relocating nearly as far across the country from home as possible, I'm grateful to have landed in another lively coastal city. Apart from my academic pursuits, I enjoy photography, cooking, yoga, and ceramics. I love finding new music and trying out new food.
 
-Contact me through any of the platforms linked below!
+Contact me through the platforms linked below!
 

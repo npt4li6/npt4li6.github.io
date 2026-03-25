@@ -12,3 +12,24 @@ languageCode = "en-us"
 [params.socialIcons]
   instagram = "https://www.instagram.com/natalieckim"
   linkedin = "https://www.linkedin.com/in/nataliekim161"
+
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/categories/Blog/"
+  weight = 2
+
+[[menu.main]]
+  name = "Photos"
+  url = "/categories/Photos/"
+  weight = 3
+
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 100

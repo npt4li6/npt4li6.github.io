@@ -2,8 +2,19 @@
   display: none;
 }
 
+@font-face {
+  font-family: "AlteHaasGroteskBold";
+  src: url("/fonts/AlteHaasGroteskBold.ttf") format("truetype");
+}
+
+h1, h2 {
+  font-family: "AlteHaasGroteskBold", serif;
+}
+
+
 
 /* Site title in upper left */
 header a.btn {
-  font-size: 25px;
+  font-family: "AlteHaasGroteskBold", serif; 
+  font-size: 35px;
 }

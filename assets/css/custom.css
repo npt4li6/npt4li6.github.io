@@ -3,20 +3,20 @@
 }
 
 @font-face {
-  font-family: "Favorite_Notification";
-  src: url("/fonts/Favorite_Notification.ttf") format("truetype");
+  font-family: "Calvoria_Stelline";
+  src: url("/fonts/Calvoria_Stelline.ttf") format("truetype");
 }
 
 h1, h2 {
-  font-family: "Favorite_Notification", serif;
+  font-family: "Calvoria_Stelline", serif;
 }
 
 /* Category buttons */
 nav.categories a {
-  font-family: "Favorite_Notification", serif;
+  font-family: "Calvoria_Stelline", serif;
 }
 
 /* Site title in upper left */
 header a.btn {
-  font-family: "Favorite_Notification", serif;
+  font-family: "Calvoria_Stelline", serif;
 }

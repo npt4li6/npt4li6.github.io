@@ -24,8 +24,8 @@ languageCode = "en-us"
   weight = 3
 
 [[menu.main]]
-  name = "Photo Gallery"
-  url = "/categories/Photo-Gallery/"
+  name = "Gallery"
+  url = "/categories/Gallery/"
   weight = 2
 
 

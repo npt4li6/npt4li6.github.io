@@ -29,3 +29,9 @@ section.prose input[type="checkbox"] {
   height: 16px;
   margin-right: 6px;
 }
+
+section.prose hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 2rem 0;
+}

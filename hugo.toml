@@ -21,12 +21,12 @@ languageCode = "en-us"
 [[menu.main]]
   name = "Blog"
   url = "/categories/Blog/"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Photo Gallery"
   url = "/categories/Photo-Gallery/"
-  weight = 3
+  weight = 2
 
 
 [[menu.main]]

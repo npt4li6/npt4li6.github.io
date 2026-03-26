@@ -11,7 +11,10 @@ h1, h2 {
   font-family: "AlteHaasGroteskBold", serif;
 }
 
-
+/* Category buttons */
+nav.categories a {
+  font-family: "AlteHaasGroteskBold", serif;
+}
 
 /* Site title in upper left */
 header a.btn {

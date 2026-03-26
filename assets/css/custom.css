@@ -10,3 +10,13 @@
 h1, h2 {
   font-family: "Favorite_Notification", serif;
 }
+
+/* Category buttons */
+nav.categories a {
+  font-family: "Favorite_Notification", serif;
+}
+
+/* Site title in upper left */
+header a.btn {
+  font-family: "Favorite_Notification", serif;
+}

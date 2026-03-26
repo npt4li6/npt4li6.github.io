@@ -14,22 +14,22 @@ languageCode = "en-us"
   linkedin = "https://www.linkedin.com/in/nataliekim161"
 
   [[menu.main]]
-  name = "HOME"
+  name = "Home"
   url = "/"
   weight = 1
 
 [[menu.main]]
-  name = "BLOG"
-  url = "/categories/BLOG/"
+  name = "Blog"
+  url = "/categories/Blog/"
   weight = 2
 
 [[menu.main]]
-  name = "GALLERY"
-  url = "/categories/GALLERY/"
+  name = "Photo Gallery"
+  url = "/categories/Photo-Gallery/"
   weight = 3
 
 
 [[menu.main]]
-  name = "ABOUT"
-  url = "/ABOUT/"
+  name = "About"
+  url = "/About/"
   weight = 100

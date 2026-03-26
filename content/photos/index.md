@@ -1,7 +1,7 @@
 ---
 title: "Photos"
 featured: true
-categories: ["GALLERY"]
+categories: ["Photo Gallery"]
 sort_by: "Name"
 sort_order: "asc"
 ---

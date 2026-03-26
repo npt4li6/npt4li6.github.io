@@ -2,19 +2,8 @@
   display: none;
 }
 
-@font-face {
-  font-family: "Calvoria_Stelline";
-  src: url("/fonts/Calvoria_Stelline.ttf") format("truetype");
-}
-
-h1, h2 {
-  font-family: "Calvoria_Stelline", serif;
-}
-
-
 
 /* Site title in upper left */
 header a.btn {
-  font-family: "Calvoria_Stelline", serif; 
   font-size: 25px;
 }

@@ -1,6 +1,6 @@
 ---
 title: "Eats"
-categories: ["GALLERY"]
+categories: ["Photo Gallery"]
 sort_by: "Name"
 sort_order: "desc"
 ---

@@ -21,3 +21,11 @@ header a.btn {
   font-family: "AlteHaasGroteskBold", serif; 
   font-size: 40px;
 }
+
+section.prose input[type="checkbox"] {
+  pointer-events: auto;
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+  margin-right: 6px;
+}

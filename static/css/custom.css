@@ -1,9 +1,0 @@
-/* 1. Hide the specific SVG icon on the home page */
-body.home .icon-menu {
-    display: none !important;
-}
-
-/* 2. Hide the actual menu list on the home page */
-body.home #menu {
-    display: none !important;
-}

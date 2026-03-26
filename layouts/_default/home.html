@@ -1,8 +1,0 @@
-{{ define "main" }}
-  {{ partial "categories.html" . }}
-  {{ range where .Site.RegularPages "Params.featured" true }}
-    <div class="featured-album">
-      {{ partial "gallery.html" . }}
-    </div>
-  {{ end }}
-{{ end }}

@@ -1,10 +1,9 @@
-/* Hide the menu specifically on the homepage */
-.home #menu {
+/* 1. Hide the specific SVG icon on the home page */
+body.home .icon-menu {
     display: none !important;
 }
 
-/* If there is a button that triggers the menu, hide that too */
-.home .menu-toggle, 
-.home .hamburger {
+/* 2. Hide the actual menu list on the home page */
+body.home #menu {
     display: none !important;
 }

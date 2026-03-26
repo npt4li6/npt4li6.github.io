@@ -1,7 +1,7 @@
 ---
 layout: prose
 rss_ignore: true
-title: About
+title: ABOUT
 menu:
   main:
     weight: 90

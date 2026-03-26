@@ -15,5 +15,6 @@ h1, h2 {
 
 /* Site title in upper left */
 header a.btn {
-  font-family: "Calvoria_Stelline", serif;
+  font-family: "Calvoria_Stelline", serif; 
+  font-size: 25px;
 }

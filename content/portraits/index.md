@@ -1,6 +1,6 @@
 ---
 title: "Portraits"
-categories: ["Photo Gallery"]
+categories: ["GALLERY"]
 sort_by: "Name"
 sort_order: "desc"
 ---

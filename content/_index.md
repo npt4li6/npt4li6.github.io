@@ -1,3 +1,3 @@
 ---
-title: "Natalie Kim"
+title: "NATALIE KIM"
 ---

@@ -7,7 +7,7 @@ categories: ["Blog"]
 
 I went with my friends to the consignment store near my house the day before I flew home. Shane and I have really enjoyed, sitting in their book room, to browse and read until the dust allergies are disgusting or the store closes. I grabbed a little yellow book, *Love that Dog*, because I, too, love my dogs. It is rapidly apparent upon reading that the child’s beloved dog is going to die – heavy hitting and as of late, very relatable. It was a nice read and for $2, it’s mine. 
 
-My dad died just before his 55th birthday and the complications of our relationship are trivial now. I’ve been thinking of the stories set in a magical coffee shop. Patrons of the cafe get to meet loved ones *Before the Coffee Gets Cold*. I see my dad in the ways I look and think and act more than I already did. If age is measured in profound, defining, life-changing experiences, I now feel beyond 23 years. But my mind has reverted to that of a child and inside I am wailing for the coffee shop to be real.
+My dad died just before his 55th birthday and the complications of our relationship are trivial now. I’ve been thinking of the stories set in a magical coffee shop. Patrons of the cafe get to meet loved ones *Before the Coffee Gets Cold*. I see my dad in the ways I look and think and act more than I already did. If age is measured in profound, defining, life-changing experiences, I now feel beyond 23 years. But my mind has reverted to that of a child and inside I am wailing to go to the coffee shop.
 
 A magical Japanese cafe is admittedly inconceivable, but I could find this poem. I’m not a mystic, but the book felt delivered to me. I hope that someone was trying to reach me.
 

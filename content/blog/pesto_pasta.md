@@ -3,9 +3,6 @@ title: "Pesto Pasta Recipe"
 date: 2026-03-26
 layout: prose
 categories: ["Blog"]
----
-
-Do whatever you want to this recipe, it's hard to mess up
 
 ---
 

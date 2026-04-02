@@ -7,18 +7,19 @@ categories: ["Blog"]
 ---
 
 Ingredients
-- [ ] ¾ lb pasta -- *pick a good shape*
-- [ ] 1 lb sausage *or seasoned ground meat*
-- [ ] Spinach *(as much as you want – can replace with any green veg, but may change cooking time)*
+- [ ] ¾ lb pasta
+- [ ] 1 lb sausage *
+- [ ] Spinach **as much as you want*
 - [ ] At least ¼ - ½ Cup Pesto
-- [ ]Parmesan *(or similar)*
-- [ ] ~¼ cup Heavy cream *(or half & half)*
+- [ ]Parmesan *
+- [ ] ~¼ cup heavy cream *
 - [ ] few cloves of Garlic
 - [ ] 1-2 Shallot *(or half onion)*
 - [ ] Salt / Pepper to taste
 - [ ] Olive oil
 - [ ] Reserved pasta water
 
+**or similar*
 ---
 
 Instructions

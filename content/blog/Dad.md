@@ -1,15 +1,15 @@
 ---
-title: "Dad"
-date: 2026-03-27
+title: "Reading at the Buy and Consign"
+date: 2026-03-28
 layout: prose
 categories: ["Blog"]
 ---
 
-I went with my friends to the consignment store near my house the day before I flew home. Shane and I have really enjoyed, sitting in their book room, to browse and read until the dust allergies are disgusting or the store closes. I grabbed a little yellow book, *Love that Dog*, because I, too, love my dogs. It is rapidly apparent upon reading that the child’s beloved dog is going to die – heavy hitting and as of late, very relatable. It was a nice read and for $2, it’s mine. 
+I went with my friends to the consignment store near my house the day before I flew home. Shane and I have really enjoyed, sitting in their book room, to browse and read until the dust allergies are disgusting or the store closes. I grabbed a little yellow book, *Love that Dog*, because I, too, love my dogs. It is rapidly apparent upon reading that the child’s dog is going to die – heavy hitting and as of late, very relatable. It was a nice read and for $2, it’s mine. 
 
-Since my dad died, the complications of our relationship feel painfully trivial. I’ve been thinking of the stories set in a magical coffee shop, where patrons of the cafe get to meet loved ones *Before the Coffee Gets Cold*. Seeing my dad in the ways I look and think and act is inescapable. If age is measured in profound, defining, life-changing experiences, I feel beyond 23 years. But my mind has reverted to that of a child and inside I am wailing to go to the coffee shop.
+After my dad passed away, the complications of our relationship feel painfully trivial. I’ve been frequently thinking of the stories set in a magical coffee shop, where customers get to meet loved ones *Before the Coffee Gets Cold*. Meeting my dad in the ways I look and think and act is inescapable. If age is measured in profound and life-changing experiences, I feel beyond 23 years. At the same time, my mind has reverted to that of a child. I feel immature. I imagine that the coffee shop stories are real.
 
-I don't actually believe in the magical Japanese cafe and I'm not spiritual nor a theist, but the book felt delivered to me. I hope that someone was trying to reach me.
+I don't actually believe in the magical cafe in Japan and I'm not spiritual nor a theist, but the book and the poem felt delivered to me. I hope that someone was trying to reach me.
 
 ---
 
